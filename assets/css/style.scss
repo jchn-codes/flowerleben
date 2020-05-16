@@ -39,17 +39,17 @@
 }
 
 .registration-link {
+  display: inline-block;
   min-width: 50%;
-  margin: 0 auto;
-  margin-top: 1rem;
-  color: #254286;
+  font-weight: bold;
   border: 1px solid #254286;
   border-radius: 5px;
   padding: 1rem 2rem;
-  background-color: transparent;
+  text-align: center;
+  background-color: #254286;
+  color: #ffffff;
 
   &:hover {
-    background-color: #254286;
-    color: #ffffff;
+    text-decoration: none;
   }
 }
