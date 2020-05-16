@@ -6,3 +6,24 @@
 .inner {
   max-width: 50%;
 }
+
+#header_wrap {
+  background: #254286;
+  background: -moz-linear-gradient(top, #1e366d, #254286);
+  background: -webkit-linear-gradient(top, #1e366d, #254286);
+  background: -ms-linear-gradient(top, #1e366d, #254286);
+  background: -o-linear-gradient(top, #1e366d, #254286);
+  background: linear-gradient(to top, #1e366d, #254286);
+}
+
+#footer_wrap {
+  background: #254286;
+}
+
+#main_content_wrap {
+  background: #ffffff;
+}
+
+#forkme_banner {
+  display: none;
+}
