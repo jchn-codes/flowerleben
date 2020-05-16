@@ -1,6 +1,4 @@
-# Probandeninformation und Aufklärung zur Studie „Der Einfluss von Musik auf das Flow-Erleben von Büroangestellten“
-
-## Studieninformationsblatt
+# Studieninformationsblatt
 
 Liebe Teilnehmerinnen und Teilnehmer,
 vielen Dank für Ihr Interesse an meiner Studie. Im Folgenden finden Sie den detaillierten Ablauf der Studie mit allen Informationen, die für Sie wichtig sind.
