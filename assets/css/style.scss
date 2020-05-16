@@ -16,8 +16,12 @@
   background: linear-gradient(to top, #213b79, #254286);
 }
 
+#header_wrap .inner {
+  padding: 30px 10px 10px 10px;
+}
+
 #footer_wrap {
-  background: #254286;
+  display: none;
 }
 
 #main_content_wrap {
