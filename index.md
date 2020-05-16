@@ -1,10 +1,10 @@
 # Liebe Teilnehmerinnen und Teilnehmer,
 
-vielen Dank für Ihr Interesse an meiner Studie. Im Folgenden finden Sie den detaillierten Ablauf der Studie mit allen Informationen, die für Sie wichtig sind. Um an der Studie teilzunehmen, müssen Sie sich zu Beginn einmalig registrieren. Der Fragebogen wird an die von Ihnen angegebene E-Mail-Adresse geschickt. Wichtig ist, dass Sie den Empfang der E-Mail zeitnah bemerken. Die Teilnahme an der Studie ist freiwillig. Ihre Daten werden anonym gespeichert. Weitere Informationen zum Datenschutz finden Sie im Abschnitt [Datenschutz](#datenschutz).
+vielen Dank für Ihr Interesse an meiner Studie. Im Folgenden finden Sie den detaillierten Ablauf der Studie mit allen Informationen, die für Sie wichtig sind. Um an der Studie teilzunehmen, müssen Sie sich zu Beginn einmalig registrieren. Der Fragebogen wird an die von Ihnen angegebene E-Mail-Adresse geschickt. Die Teilnahme an der Studie ist freiwillig. Ihre Daten werden anonym gespeichert. Weitere Informationen zum Datenschutz finden Sie im Abschnitt [Datenschutz](#datenschutz).
 
 ## Studienablauf
 
-Die Studie beginnt am **xx.xx.20** und endet am **xx.xx.20** und umfasst vier Tage. In diesem Zeitraum erhalten Sie jeden Tag, zu einem zufälligen Zeitpunkt zwischen **10 und 16 Uhr**, eine E-Mail mit einem Link zum Fragebogen. Bitte unterbrechen Sie, wenn möglich, Ihre aktuelle Arbeitstätigkeit, um diesen zu beantworten.
+Die Studie beginnt am **xx.xx.20** und endet am **xx.xx.20** und umfasst vier Tage. In diesem Zeitraum erhalten Sie jeden Tag, zu einem zufälligen Zeitpunkt zwischen **10 und 16 Uhr**, eine E-Mail mit einem Link zum Fragebogen. Bitte unterbrechen Sie, wenn möglich, Ihre aktuelle Arbeitstätigkeit, um diesen zu beantworten. Wichtig ist, dass Sie den Empfang der E-Mail zeitnah bemerken.
 
 ### Warum das Unterbrechen der Tätigkeit so wichtig ist
 
