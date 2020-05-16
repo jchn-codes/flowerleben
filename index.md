@@ -36,7 +36,7 @@ Ihre Daten werden anonym verarbeitet und ausschließlich im Rahmen meiner Bachel
 1. Die Einwilligung zur Erhebung und Verarbeitung der Daten ist unwiderruflich, da aufgrund der anonymisierten Form der Umfrage keine teilnehmerbezogene Löschung durchgeführt werden kann.
 1. Ich erkläre mich damit einverstanden, dass meine Daten nach Beendigung oder Abbruch der Studie gelöscht werden.
 
-**Mit der Registration erkläre ich mich mit der vorstehenden Vorgehensweise einverstanden und stimme der Teilnahme an der Studie zu.**  
-**Mit der Registration stimme ich dem oben beschriebenen Datenschutz zu.**
+**Mit der Registrierung erkläre ich mich mit der vorstehenden Vorgehensweise einverstanden und stimme der Teilnahme an der Studie zu.**  
+**Mit der Registrierung stimme ich dem oben beschriebenen Datenschutz zu.**
 
 <a class="registration-link" href="https://www.pfh.de/umfragen/index.php/549257?lang=de">zur Registrierung</a>
