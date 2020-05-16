@@ -4,7 +4,7 @@ vielen Dank für Ihr Interesse an meiner Studie. Im Folgenden finden Sie den det
 
 ## Studienablauf
 
-Die Studie beginnt am **xx.xx.20** und endet am **xx.xx.20** und umfasst vier Tage. In diesem Zeitraum erhalten Sie jeden Tag, zu einem zufälligen Zeitpunkt zwischen **10 und 16 Uhr**, eine E-Mail mit einem Link zum Fragebogen. Bitte unterbrechen Sie, wenn möglich, Ihre aktuelle Arbeitstätigkeit, um diesen zu beantworten. Wichtig ist, dass Sie den Empfang der E-Mail zeitnah bemerken.
+Die Studie dauert vier Tage. Sie beginnt am **xx.xx.20** und endet am **xx.xx.20**. In diesem Zeitraum erhalten Sie jeden Tag, zu einem zufälligen Zeitpunkt zwischen **10 und 16 Uhr**, eine E-Mail mit einem Link zum Fragebogen. Bitte unterbrechen Sie, wenn möglich, Ihre aktuelle Arbeitstätigkeit, um diesen zu beantworten. Wichtig ist, dass Sie den Empfang der E-Mail zeitnah bemerken.
 
 ### Warum das Unterbrechen der Tätigkeit so wichtig ist
 
@@ -14,8 +14,8 @@ Wenn Sie Ihre Tätigkeit unterbrechen, um den Fragebogen direkt zu beantworten, 
 
 Da ich den Einfluss von Musik auf das Flow-Erleben während der Arbeit messen möchte, hören Sie bitte zwei Tage während der Arbeit Musik und zwei Tage keine Musik. Es ist Ihnen freigestellt, wie Sie diese Tage einteilen. Entscheidend ist nur, dass Sie am Ende der Studie jeweils zwei Tage lang Musik gehört haben und zwei Tage lang keine Musik gehört haben.
 
-- ohne Musik bedeutet: Hören Sie bitte keine Musik und konsumieren Sie bitte auch keine anderen auditiven Medien, wie z.B. Radio, Hörbücher oder Podcasts.
-- mit Musik bedeutet: Bauen Sie das Musikhören möglichst häufig in Ihren Arbeitsalltag ein. Das Musikgenre und die Lautstärke können Sie frei wählen. Natürlich soll nur in dem Rahmen Musik gehört werden, in dem dies für Sie möglich und angenehm ist. Arbeiten Sie beispielsweise konzentriert und alleine an einer Aufgabe, ist dies ein guter Zeitpunkt, um Musik zu hören. Selbstverständlich gibt es im Arbeitsalltag Situationen, in denen Musikhören nicht möglich ist, z.B. während einem Meeting.
+- **ohne Musik bedeutet:** Hören Sie bitte keine Musik und konsumieren Sie bitte auch keine anderen auditiven Medien, wie z.B. Radio, Hörbücher oder Podcasts.
+- **mit Musik bedeutet:** Bauen Sie das Musikhören möglichst häufig in Ihren Arbeitsalltag ein. Das Musikgenre und die Lautstärke können Sie frei wählen. Natürlich soll nur in dem Rahmen Musik gehört werden, in dem dies für Sie möglich und angenehm ist. Arbeiten Sie beispielsweise konzentriert und alleine an einer Aufgabe, ist dies ein guter Zeitpunkt, um Musik zu hören. Selbstverständlich gibt es im Arbeitsalltag Situationen, in denen Musikhören nicht möglich ist, z.B. während einem Meeting.
 
 ## Teilnahmevoraussetzungen
 
@@ -38,3 +38,5 @@ Ihre Daten werden anonym verarbeitet und ausschließlich im Rahmen meiner Bachel
 
 **Mit der Registration erkläre ich mich mit der vorstehenden Vorgehensweise einverstanden und stimme der Teilnahme an der Studie zu.**  
 **Mit der Registration stimme ich dem oben beschriebenen Datenschutz zu.**
+
+<a class="registration-link" href="https://google.com">zur Registrierung</a>

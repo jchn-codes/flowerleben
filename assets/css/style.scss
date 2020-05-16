@@ -37,3 +37,16 @@
   font-weight: 700;
   text-shadow: none;
 }
+
+.registration-link {
+  color: #254286;
+  border: 1px solid #254286;
+  border-radius: 5px;
+  padding: 2rem;
+  background-color: transparent;
+
+  &:hover {
+    background-color: #254286;
+    color: #ffffff;
+  }
+}
