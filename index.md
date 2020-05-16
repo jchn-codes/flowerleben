@@ -39,4 +39,4 @@ Ihre Daten werden anonym verarbeitet und ausschließlich im Rahmen meiner Bachel
 **Mit der Registration erkläre ich mich mit der vorstehenden Vorgehensweise einverstanden und stimme der Teilnahme an der Studie zu.**  
 **Mit der Registration stimme ich dem oben beschriebenen Datenschutz zu.**
 
-<a class="registration-link" href="https://google.com">zur Registrierung</a>
+<a class="registration-link" href="https://www.pfh.de/umfragen/index.php/549257?lang=de">zur Registrierung</a>
