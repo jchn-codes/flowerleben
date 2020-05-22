@@ -1,25 +1,25 @@
 # Liebe Teilnehmerinnen und Teilnehmer,
 
-vielen Dank für Ihr Interesse an meiner Studie. Im Folgenden finden Sie den detaillierten Ablauf der Studie mit allen Informationen, die für Sie wichtig sind. Um an der Studie teilzunehmen, müssen Sie sich zu Beginn einmalig registrieren. Der Fragebogen wird an die von Ihnen angegebene E-Mail-Adresse geschickt. Die Teilnahme an der Studie ist freiwillig. Ihre Daten werden anonym gespeichert. Weitere Informationen zum Datenschutz finden Sie im Abschnitt [Datenschutz](#datenschutz).
+vielen Dank für Ihr Interesse an meiner Studie. Im Folgenden finden Sie den detaillierten Ablauf der Studie mit allen Informationen, die für Sie wichtig sind. Um an der Studie teilzunehmen, müssen Sie sich zu Beginn einmalig registrieren und initial einen Fragebogen beantworten. Der Fragebogen wird an die von Ihnen angegebene E-Mail-Adresse geschickt. Die Teilnahme an der Studie ist freiwillig. Ihre Daten werden anonym gespeichert. Weitere Informationen zum Datenschutz finden Sie im Abschnitt [Datenschutz](#datenschutz).
 
 ## Studienablauf
 
-Die Studie dauert vier Tage. Sie beginnt am **xx.xx.20** und endet am **xx.xx.20**. In diesem Zeitraum erhalten Sie jeden Tag, zu einem zufälligen Zeitpunkt zwischen **10 und 16 Uhr**, eine E-Mail mit einem Link zum Fragebogen. Bitte unterbrechen Sie, wenn möglich, Ihre aktuelle Arbeitstätigkeit, um diesen zu beantworten. Wichtig ist, dass Sie den Empfang der E-Mail zeitnah bemerken.
+Die Studie dauert vier Tage. Sie beginnt am **01.06.20** und endet am **04.06.20**. In diesem Zeitraum erhalten Sie jeden Tag, zu einem zufälligen Zeitpunkt zwischen **10 und 16 Uhr**, eine E-Mail mit einem Link zum Fragebogen. Bitte unterbrechen Sie, wenn möglich, Ihre aktuelle Arbeitstätigkeit, um diesen zu beantworten. Wichtig ist, dass Sie den Empfang der E-Mail zeitnah bemerken.
 
 ### Warum das Unterbrechen der Tätigkeit so wichtig ist
 
-Wenn Sie Ihre Tätigkeit unterbrechen, um den Fragebogen direkt zu beantworten, können Sie Ihr Erleben unmittelbar erfassen. Je mehr Zeit zwischen Aufgabenausführung und der Beantwortung des Fragebogens vergeht, desto schwieriger ist es sich daran zu erinnern, wie man die Bearbeitung der Aufgabe erlebt hat. Ist es Ihnen gerade nicht möglich den Fragebogen zu beantworten, bitte ich Sie, dass Ausfüllen des Fragebogens am selben Tag nachzuholen.
+Wenn Sie Ihre Tätigkeit unterbrechen, um den Fragebogen direkt zu beantworten, können Sie unmittelbar erfassen, wie Sie die Bearbeitung der Aufgabe erlebt haben. Je mehr Zeit zwischen Aufgabenausführung und der Beantwortung des Fragebogens vergeht, desto schwieriger ist es sich daran zu erinnern. Ist es Ihnen gerade nicht möglich den Fragebogen zu beantworten, bitte ich Sie, dass Ausfüllen des Fragebogens am selben Tag nachzuholen.
 
 ### Die vier Tage der Studie
 
 Da ich den Einfluss von Musik auf das Flow-Erleben während der Arbeit messen möchte, hören Sie bitte zwei Tage während der Arbeit Musik und zwei Tage keine Musik. Es ist Ihnen freigestellt, wie Sie diese Tage einteilen. Entscheidend ist nur, dass Sie am Ende der Studie jeweils zwei Tage lang Musik gehört haben und zwei Tage lang keine Musik gehört haben.
 
-- **ohne Musik bedeutet:** Hören Sie bitte keine Musik und konsumieren Sie bitte auch keine anderen auditiven Medien, wie z.B. Radio, Hörbücher oder Podcasts.
+- **ohne Musik bedeutet:** Hören Sie bitte während der Arbeit keine Musik und konsumieren Sie bitte auch keine anderen auditiven Medien, wie z.B. Radio, Hörbücher oder Podcasts.
 - **mit Musik bedeutet:** Bauen Sie das Musikhören möglichst häufig in Ihren Arbeitsalltag ein. Das Musikgenre und die Lautstärke können Sie frei wählen. Natürlich soll nur in dem Rahmen Musik gehört werden, in dem dies für Sie möglich und angenehm ist. Arbeiten Sie beispielsweise konzentriert und alleine an einer Aufgabe, ist dies ein guter Zeitpunkt, um Musik zu hören. Selbstverständlich gibt es im Arbeitsalltag Situationen, in denen Musikhören nicht möglich ist, z.B. während einem Meeting.
 
 ## Teilnahmevoraussetzungen
 
-1. Sie sind berufstätig und arbeiten mindestens 4 Tage pro Woche.
+1. Sie sind berufstätig und arbeiten mindestens 4 Tage pro Woche (Vollzeit oder Teilzeit).
 1. Sie arbeiten überwiegend an einem Büroarbeitsplatz.
 1. Sie haben die Möglichkeit während Ihrer Arbeit Musik zu hören und besitzen das nötige Equipment (z.B. Kopfhörer, Smartphone / MP3-Player).
 1. Sie können während Ihrer Arbeitszeit E-Mails empfangen.
