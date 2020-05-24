@@ -4,7 +4,7 @@ vielen Dank für Ihr Interesse an meiner Studie. Im Folgenden finden Sie den det
 
 ## Studienablauf
 
-Die Studie dauert vier Tage. Sie beginnt am **01.06.20** und endet am **04.06.20**. In diesem Zeitraum erhalten Sie jeden Tag, zu einem zufälligen Zeitpunkt zwischen **10 und 16 Uhr**, eine E-Mail mit einem Link zum Fragebogen. Bitte unterbrechen Sie, wenn möglich, Ihre aktuelle Arbeitstätigkeit, um diesen zu beantworten. Wichtig ist, dass Sie den Empfang der E-Mail zeitnah bemerken.
+Die Studie dauert vier Tage. Sie beginnt am **02.06.20** und endet am **05.06.20**. In diesem Zeitraum erhalten Sie jeden Tag, zu einem zufälligen Zeitpunkt zwischen **10 und 16 Uhr**, eine E-Mail mit einem Link zum Fragebogen. Bitte unterbrechen Sie, wenn möglich, Ihre aktuelle Arbeitstätigkeit, um diesen zu beantworten. Wichtig ist, dass Sie den Empfang der E-Mail zeitnah bemerken.
 
 ### Warum das Unterbrechen der Tätigkeit so wichtig ist
 
