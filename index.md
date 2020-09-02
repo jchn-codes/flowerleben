@@ -23,6 +23,7 @@ Da ich den Einfluss von Musik auf das Flow-Erleben während der Arbeit messen m�
 1. Sie arbeiten überwiegend an einem Büroarbeitsplatz.
 1. Sie haben die Möglichkeit während Ihrer Arbeit Musik zu hören und besitzen das nötige Equipment (z.B. Kopfhörer, Smartphone / MP3-Player).
 1. Sie können während Ihrer Arbeitszeit E-Mails empfangen.
+1. Sie arbeiten als Softwareentwickler\*in oder Ihre Tätigkeiten befassen sich mit dem Programmieren.
 
 ## Einverständniserklärung zur Teilnahme an der Studie
 
